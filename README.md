@@ -2,7 +2,7 @@
 
 ## ⚡ Connect with me 
 
-[![](https://img.shields.io/badge/-Mai%20Essam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmednreldin/)](https://www.linkedin.com/in/mai-essam-9b3a201a1/)
+[![](https://img.shields.io/badge/-Mai%20Essam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mai-essam-9b3a201a1/)](https://www.linkedin.com/in/mai-essam-9b3a201a1/)
 
 ## Technologies 🛠 
 
